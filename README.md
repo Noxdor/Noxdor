@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi dear visitor!
 
-<!--
-**Noxdor/Noxdor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am happy you have a look on my profile. A few things about me:
 
-Here are some ideas to get you started:
+🔭 I’m currently working at @PropTechTools
+  
+🌱 I’m currently learning the Rust programming language and parallel programming with MPI (Message Passing Interface)
+  
+💬 Talk to me about the Vue framework, Rust, CSS and Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: lennart@guderian.de || https://www.linkedin.com/in/lguderian/
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Noxdor)]()
