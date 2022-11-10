@@ -10,4 +10,4 @@ I am happy you have a look on my profile. A few things about me:
 
 📫 How to reach me: lennart@guderian.de || https://www.linkedin.com/in/lguderian/
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Noxdor)]()
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Noxdor&show_icons=true&theme=transparent&hide_border=true)]()
