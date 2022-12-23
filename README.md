@@ -1,10 +1,10 @@
 ### Hi dear visitor!
 
-I am happy you have a look on my profile. A few things about me:
+I am happy you have a look at my profile. A few things about me:
 
 🔭 I’m currently working at @PropTechTools
   
-🌱 I’m currently learning the Rust programming language and parallel programming with MPI (Message Passing Interface)
+🌱 I’m currently learning the Rust programming language and with it a few other topics
   
 💬 Talk to me about the Vue framework, Rust, CSS and Sass
 
