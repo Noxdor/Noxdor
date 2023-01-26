@@ -1,6 +1,6 @@
 ### Hi dear visitor!
 
-I am happy you have a look at my profile. A few things about me:
+I am happy you are having a look at my profile. A few things about me:
 
 🔭 I’m currently working at @PropTechTools
   
